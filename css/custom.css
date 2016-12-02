@@ -1,4 +1,8 @@
-.row {
+html, body {
+    height: 100%;
+}
+
+.main, .row {
     height: 100%;
 }
 
@@ -17,11 +21,12 @@
     padding: 15px;
 }
 
-a {
-
+.sidebar {
+    height: 100%;
 }
 
 @media screen and (max-width: 1280px) {
+
     .schedule-card {
         margin: 100px auto 20px;
         padding: 10px;

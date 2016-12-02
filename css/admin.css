@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    #schedule-text {
+        font-size: 2rem;
+    }
+
+    #submit-schedule {
+        width: 50%;
+        text-align: center;
+    }
+}
+
+button {
+    background-color: teal;
+    color: white;
+}
